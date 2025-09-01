@@ -6,9 +6,11 @@ A powerful Discord bot that brings OpenAI's Realtime API voice capabilities to y
 
 Check out the bot in action:
 
-https://github.com/user-attachments/assets/example-video
+[![OpenAI Realtime Discord Bot Demo](https://img.youtube.com/vi/ncvp7PapT0E/maxresdefault.jpg)](https://youtu.be/ncvp7PapT0E)
 
-_[Video shows the bot joining a voice channel and having a natural conversation using OpenAI's speech-to-speech technology]_
+🎬 **[Watch Full Demo on YouTube](https://youtu.be/ncvp7PapT0E)**
+
+_[Video demonstrates the bot joining a voice channel and having natural conversations using OpenAI's speech-to-speech technology]_
 
 ## ✨ Features
 
@@ -51,7 +53,7 @@ _[Video shows the bot joining a voice channel and having a natural conversation 
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/yourusername/openai-realtime-discordbot.git
+git clone https://github.com/Emmanuek5/openai-realtime-discordbot.git
 cd openai-realtime-discordbot
 bun install
 ```
