@@ -1,5 +1,11 @@
 ## Changelog
 
+### Latest Updates
+
+- **Comprehensive README**: Created detailed documentation with setup instructions, feature overview, architecture details, and troubleshooting guide.
+- **Example Video Integration**: Added demo video section to showcase bot capabilities in README.
+- **Enhanced Documentation**: Improved project structure documentation, usage examples, and development guidelines.
+
 ### Added
 
 - /call command: Joins the user's current voice channel.
